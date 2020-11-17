@@ -1,2 +1,4 @@
 # Appointment_API_Database
- Back-end of my Appointment Web Application: https://appointment-app-database.azurewebsites.net
+ This is the API for my Appointment Web Application.
+ The URL: https://appointment-app-database.azurewebsites.net
+ 
